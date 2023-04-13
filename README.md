@@ -19,6 +19,8 @@
 
 Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurss123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contatos
 
  - Email: mouraarthur625@gmail.com
