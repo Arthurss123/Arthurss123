@@ -5,8 +5,6 @@
 )](https://www.instagram.com/mouras_arthur/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthurmoura233
 )
-[![DIO](https://guiadeti.com.br/wp-content/uploads/2022/01/guia-cursos-dio.png)]
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurss123&theme=dark&show_icons=true)
 
 ## Tecnologias que eu uso no dia a dia
