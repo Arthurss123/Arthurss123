@@ -1,26 +1,44 @@
+<h2 align="left">About me</h2>
 
+###
 
-### Olá! meu nome é Arthur Moura ✌️
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/mouras_arthur/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthurmoura233
-)
+<p align="left">Data Engineering: Data Pipeline, ETL, Data Lake, and Data Warehouse.<br>Python: Numpy, Pandas, Automation, Data Analysis, and Manipulation.<br>Databases: SQL, Relational Databases.<br>Tools & Technologies: AWS, Advanced Excel.</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurss123&theme=dark&show_icons=true)
+###
 
-## Tecnologias que eu uso no dia a dia
+<h2 align="left">Stats</h2>
 
-<div style="Display: inline-block"><br/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="HTML-5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div><br>
+###
 
-Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthurss123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthurss123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurss123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-## Contatos
+<h2 align="left">Techs</h2>
 
- - Email: mouraarthur625@gmail.com
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Arthurss123/Arthurss123/output/snake.svg" alt="Snake animation" />
+
+###
