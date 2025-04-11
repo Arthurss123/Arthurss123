@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Data Engineering: Data Pipeline, ETL, Data Lake, and Data Warehouse.<br>Python: Numpy, Pandas, Automation, Data Analysis, and Manipulation.<br>Databases: SQL, Relational Databases.<br>Tools & Technologies: AWS, Advanced Excel, Apache AirFlow</p>
+<p align="left">Knowledge: Data Pipeline, Data Lake, and Data Warehouse.<br>Python: Numpy, Pandas, Automation, Data Analysis, and Manipulation.<br>Databases: SQL, Relational Databases.<br>Tools & Technologies: AWS, Advanced Excel, Apache AirFlow</p>
 
 ###
 
